@@ -1,6 +1,8 @@
 # Computer Vision - Object Detection with OpenCV
 Detect faces, eyes and a car's number plate from images, and people walking and cars moving from videos.
 
+Best viewed on [nbviewer](https://nbviewer.jupyter.org/github/AbdullahK047/Object_Detection-OpenCV/tree/master/).
+
 ## Contents
 - [01_Face_Detection.ipynb](01_Face_Detection.ipynb) <br><br>
     Detect faces from an image.
